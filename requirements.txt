@@ -1,0 +1,8 @@
+# This project uses only the Python standard library (sqlite3, hashlib,
+# secrets, dataclasses, unittest, logging, datetime, re).
+# No external packages are required to run or test it.
+#
+# If you want to reproduce the design diagrams in docs/diagrams/, those
+# were generated with (not required to run the app itself):
+#   graphviz (system package, provides the `dot` CLI)
+#   matplotlib
